@@ -1,0 +1,243 @@
+
+INFO:root:basemodel+position+entity_mask_ESIM30.3
+INFO:root:epoch0
+INFO:root:Epoch: 0-    dev F1 Score: 0.5639686684073107
+INFO:root:Epoch: 0-    Val p Score:0.5925494761350407
+INFO:root:Epoch: 0-    Val r Score:0.4774859287054409
+INFO:root:Epoch: 0-    Val F1 Score:0.5288311688311688
+INFO:root:epoch1
+INFO:root:Epoch: 1-    dev F1 Score: 0.5481049562682216
+INFO:root:Epoch: 1-    Val p Score:0.6535764375876578
+INFO:root:Epoch: 1-    Val r Score:0.4371482176360225
+INFO:root:Epoch: 1-    Val F1 Score:0.5238898257448004
+INFO:root:epoch2
+INFO:root:Epoch: 2-    dev F1 Score: 0.574585635359116
+INFO:root:Epoch: 2-    Val p Score:0.6210045662100456
+INFO:root:Epoch: 2-    Val r Score:0.5103189493433395
+INFO:root:Epoch: 2-    Val F1 Score:0.5602471678681771
+INFO:root:epoch3
+INFO:root:Epoch: 3-    dev F1 Score: 0.5868544600938966
+INFO:root:Epoch: 3-    Val p Score:0.576048951048951
+INFO:root:Epoch: 3-    Val r Score:0.6181988742964353
+INFO:root:Epoch: 3-    Val F1 Score:0.5963800904977375
+INFO:root:epoch4
+INFO:root:Epoch: 4-    dev F1 Score: 0.5942028985507247
+INFO:root:Epoch: 4-    Val p Score:0.5445026178010471
+INFO:root:Epoch: 4-    Val r Score:0.5853658536585366
+INFO:root:Epoch: 4-    Val F1 Score:0.5641952983725136
+INFO:root:epoch5
+INFO:root:Epoch: 5-    dev F1 Score: 0.5972850678733032
+INFO:root:Epoch: 5-    Val p Score:0.5221518987341772
+INFO:root:Epoch: 5-    Val r Score:0.6191369606003753
+INFO:root:Epoch: 5-    Val F1 Score:0.5665236051502146
+INFO:root:epoch6
+INFO:root:Epoch: 6-    dev F1 Score: 0.5778611632270167
+INFO:root:Epoch: 6-    Val p Score:0.4447608200455581
+INFO:root:Epoch: 6-    Val r Score:0.7326454033771107
+INFO:root:Epoch: 6-    Val F1 Score:0.5535081502480511
+INFO:root:epoch7
+INFO:root:Epoch: 7-    dev F1 Score: 0.5395189003436427
+INFO:root:Epoch: 7-    Val p Score:0.4242738589211618
+INFO:root:Epoch: 7-    Val r Score:0.7673545966228893
+INFO:root:Epoch: 7-    Val F1 Score:0.5464261857047428
+INFO:root:epoch8
+INFO:root:Epoch: 8-    dev F1 Score: 0.5412371134020618
+INFO:root:Epoch: 8-    Val p Score:0.5516908212560386
+INFO:root:Epoch: 8-    Val r Score:0.5356472795497186
+INFO:root:Epoch: 8-    Val F1 Score:0.5435506901475489
+INFO:root:epoch9
+
+INFO:root:basemodel+position+entity_mask_ESIM80.3
+INFO:root:epoch0
+INFO:root:Epoch: 0-    dev F1 Score: 0.5414364640883977
+INFO:root:Epoch: 0-    Val p Score:0.6258064516129033
+INFO:root:Epoch: 0-    Val r Score:0.4549718574108818
+INFO:root:Epoch: 0-    Val F1 Score:0.5268875611080935
+INFO:root:epoch1
+INFO:root:Epoch: 1-    dev F1 Score: 0.532520325203252
+INFO:root:Epoch: 1-    Val p Score:0.4777998674618953
+INFO:root:Epoch: 1-    Val r Score:0.6763602251407129
+INFO:root:Epoch: 1-    Val F1 Score:0.5599999999999999
+INFO:root:epoch2
+INFO:root:Epoch: 2-    dev F1 Score: 0.5068119891008174
+INFO:root:Epoch: 2-    Val p Score:0.6025157232704402
+INFO:root:Epoch: 2-    Val r Score:0.44934333958724204
+INFO:root:Epoch: 2-    Val F1 Score:0.5147770016120365
+INFO:root:epoch3
+INFO:root:Epoch: 3-    dev F1 Score: 0.5024154589371981
+INFO:root:Epoch: 3-    Val p Score:0.5524079320113314
+INFO:root:Epoch: 3-    Val r Score:0.5487804878048781
+INFO:root:Epoch: 3-    Val F1 Score:0.5505882352941177
+INFO:root:epoch4
+INFO:root:Epoch: 4-    dev F1 Score: 0.5023696682464456
+INFO:root:Epoch: 4-    Val p Score:0.5274442538593482
+INFO:root:Epoch: 4-    Val r Score:0.5769230769230769
+INFO:root:Epoch: 4-    Val F1 Score:0.5510752688172044
+INFO:root:epoch5
+INFO:root:Epoch: 5-    dev F1 Score: 0.5100917431192661
+INFO:root:Epoch: 5-    Val p Score:0.410498687664042
+INFO:root:Epoch: 5-    Val r Score:0.7335834896810507
+INFO:root:Epoch: 5-    Val F1 Score:0.526422080107708
+INFO:root:epoch6
+INFO:root:basemodel+position+entity_mask_ESIM30.3
+INFO:root:epoch0
+INFO:root:Epoch: 0-    dev F1 Score: 0.5546218487394958
+INFO:root:Epoch: 0-    Val p Score:0.5192
+INFO:root:Epoch: 0-    Val r Score:0.6088180112570356
+INFO:root:Epoch: 0-    Val F1 Score:0.5604490500863557
+INFO:root:epoch1
+INFO:root:Epoch: 1-    dev F1 Score: 0.39711191335740076
+INFO:root:Epoch: 1-    Val p Score:0.6985645933014354
+INFO:root:Epoch: 1-    Val r Score:0.27392120075046905
+INFO:root:Epoch: 1-    Val F1 Score:0.3935309973045822
+INFO:root:epoch2
+INFO:root:Epoch: 2-    dev F1 Score: 0.3622641509433963
+INFO:root:Epoch: 2-    Val p Score:0.7241379310344828
+INFO:root:Epoch: 2-    Val r Score:0.23639774859287055
+INFO:root:Epoch: 2-    Val F1 Score:0.3564356435643564
+INFO:root:epoch3
+INFO:root:Epoch: 3-    dev F1 Score: 0.5519125683060109
+INFO:root:Epoch: 3-    Val p Score:0.5831556503198294
+INFO:root:Epoch: 3-    Val r Score:0.5131332082551595
+INFO:root:Epoch: 3-    Val F1 Score:0.5459081836327346
+INFO:root:epoch4
+INFO:root:basemodel+position+entity_mask_ESIM30.3
+INFO:root:basemodel+position+entity_mask_ESIM30.3
+INFO:root:epoch0
+INFO:root:basemodel+position+entity_mask_ESIM100.3
+INFO:root:epoch0
+INFO:root:Epoch: 0-    dev F1 Score: 0.5776805251641137
+INFO:root:Epoch: 0-    Val p Score:0.5427574171029669
+INFO:root:Epoch: 0-    Val r Score:0.5834896810506567
+INFO:root:Epoch: 0-    Val F1 Score:0.5623869801084991
+INFO:root:epoch1
+INFO:root:Epoch: 1-    dev F1 Score: 0.5170454545454546
+INFO:root:Epoch: 1-    Val p Score:0.6525037936267072
+INFO:root:Epoch: 1-    Val r Score:0.40337711069418386
+INFO:root:Epoch: 1-    Val F1 Score:0.4985507246376812
+INFO:root:epoch2
+INFO:root:Epoch: 2-    dev F1 Score: 0.5788336933045357
+INFO:root:Epoch: 2-    Val p Score:0.525096525096525
+INFO:root:Epoch: 2-    Val r Score:0.6378986866791745
+INFO:root:Epoch: 2-    Val F1 Score:0.5760271071579838
+INFO:root:epoch3
+INFO:root:Epoch: 3-    dev F1 Score: 0.5692007797270956
+INFO:root:Epoch: 3-    Val p Score:0.47371601208459213
+INFO:root:Epoch: 3-    Val r Score:0.7354596622889306
+INFO:root:Epoch: 3-    Val F1 Score:0.5762587284086733
+INFO:root:epoch4
+INFO:root:Epoch: 4-    dev F1 Score: 0.5502392344497608
+INFO:root:Epoch: 4-    Val p Score:0.5405405405405406
+INFO:root:Epoch: 4-    Val r Score:0.5816135084427767
+INFO:root:Epoch: 4-    Val F1 Score:0.5603253502033438
+INFO:root:epoch5
+INFO:root:Epoch: 5-    dev F1 Score: 0.5650557620817843
+INFO:root:Epoch: 5-    Val p Score:0.4614942528735632
+INFO:root:Epoch: 5-    Val r Score:0.7532833020637899
+INFO:root:Epoch: 5-    Val F1 Score:0.5723449750534569
+INFO:root:epoch6
+INFO:root:Epoch: 6-    dev F1 Score: 0.5465346534653466
+INFO:root:Epoch: 6-    Val p Score:0.4698247890979883
+INFO:root:Epoch: 6-    Val r Score:0.6791744840525328
+INFO:root:Epoch: 6-    Val F1 Score:0.5554276946682009
+INFO:root:epoch7
+INFO:root:Epoch: 7-    dev F1 Score: 0.5401174168297456
+INFO:root:Epoch: 7-    Val p Score:0.47507507507507507
+INFO:root:Epoch: 7-    Val r Score:0.7420262664165104
+INFO:root:Epoch: 7-    Val F1 Score:0.579274990845844
+INFO:root:epoch8
+INFO:root:basemodel+position+entity_mask_ESIM11_0.3
+INFO:root:basemodel+position+entity_mask_ESIM11_0.3
+INFO:root:epoch0
+INFO:root:Epoch: 0-    dev F1 Score: 0.5480572597137015
+INFO:root:Epoch: 0-    Val p Score:0.49125475285171105
+INFO:root:Epoch: 0-    Val r Score:0.6060037523452158
+INFO:root:Epoch: 0-    Val F1 Score:0.5426291474170517
+INFO:root:epoch1
+INFO:root:Epoch: 1-    dev F1 Score: 0.4729729729729731
+INFO:root:Epoch: 1-    Val p Score:0.6883910386965377
+INFO:root:Epoch: 1-    Val r Score:0.3170731707317073
+INFO:root:Epoch: 1-    Val F1 Score:0.43416827231856137
+INFO:root:epoch2
+INFO:root:Epoch: 2-    dev F1 Score: 0.5606469002695419
+INFO:root:Epoch: 2-    Val p Score:0.6262857142857143
+INFO:root:Epoch: 2-    Val r Score:0.5140712945590994
+INFO:root:Epoch: 2-    Val F1 Score:0.5646573930963421
+INFO:root:epoch3
+INFO:root:Epoch: 3-    dev F1 Score: 0.581453634085213
+INFO:root:Epoch: 3-    Val p Score:0.5737009544008483
+INFO:root:Epoch: 3-    Val r Score:0.5075046904315197
+INFO:root:Epoch: 3-    Val F1 Score:0.5385764061722249
+INFO:root:epoch4
+INFO:root:Epoch: 4-    dev F1 Score: 0.519174041297935
+INFO:root:Epoch: 4-    Val p Score:0.6385372714486639
+INFO:root:Epoch: 4-    Val r Score:0.425891181988743
+INFO:root:Epoch: 4-    Val F1 Score:0.5109735509285313
+INFO:root:epoch5
+INFO:root:Epoch: 5-    dev F1 Score: 0.5548098434004474
+INFO:root:Epoch: 5-    Val p Score:0.5116640746500778
+INFO:root:Epoch: 5-    Val r Score:0.6172607879924953
+INFO:root:Epoch: 5-    Val F1 Score:0.5595238095238096
+INFO:root:epoch6
+INFO:root:Epoch: 6-    dev F1 Score: 0.531328320802005
+INFO:root:Epoch: 6-    Val p Score:0.5431034482758621
+INFO:root:Epoch: 6-    Val r Score:0.5318949343339587
+INFO:root:Epoch: 6-    Val F1 Score:0.5374407582938389
+INFO:root:epoch7
+INFO:root:basemodel+position+entity_mask_ESIM110.3
+INFO:root:basemodel+position+entity_mask_ESIM110.3
+INFO:root:epoch0
+INFO:root:Epoch: 0-    dev F1 Score: 0.514450867052023
+INFO:root:Epoch: 0-    Val p Score:0.6161473087818697
+INFO:root:Epoch: 0-    Val r Score:0.4080675422138837
+INFO:root:Epoch: 0-    Val F1 Score:0.4909706546275396
+INFO:root:epoch1
+INFO:root:Epoch: 1-    dev F1 Score: 0.5604395604395604
+INFO:root:Epoch: 1-    Val p Score:0.6309677419354839
+INFO:root:Epoch: 1-    Val r Score:0.45872420262664165
+INFO:root:Epoch: 1-    Val F1 Score:0.5312330255296035
+INFO:root:epoch2
+INFO:root:Epoch: 2-    dev F1 Score: 0.5373134328358209
+INFO:root:Epoch: 2-    Val p Score:0.5300546448087432
+INFO:root:Epoch: 2-    Val r Score:0.5459662288930581
+INFO:root:Epoch: 2-    Val F1 Score:0.5378927911275416
+INFO:root:epoch3
+INFO:root:Epoch: 3-    dev F1 Score: 0.5209302325581395
+INFO:root:Epoch: 3-    Val p Score:0.489247311827957
+INFO:root:Epoch: 3-    Val r Score:0.5975609756097561
+INFO:root:Epoch: 3-    Val F1 Score:0.5380067567567567
+INFO:root:epoch4
+INFO:root:basemodel+position+entity_mask_ESIM110.3
+INFO:root:epoch0
+INFO:root:Epoch: 0-    dev F1 Score: 0.4952978056426332
+INFO:root:Epoch: 0-    Val p Score:0.6575121163166397
+INFO:root:Epoch: 0-    Val r Score:0.3818011257035647
+INFO:root:Epoch: 0-    Val F1 Score:0.4830860534124629
+INFO:root:epoch1
+INFO:root:Epoch: 1-    dev F1 Score: 0.5632458233890215
+INFO:root:Epoch: 1-    Val p Score:0.5734331150608045
+INFO:root:Epoch: 1-    Val r Score:0.575046904315197
+INFO:root:Epoch: 1-    Val F1 Score:0.5742388758782202
+INFO:root:epoch2
+INFO:root:Epoch: 2-    dev F1 Score: 0.5954198473282443
+INFO:root:Epoch: 2-    Val p Score:0.5990243902439024
+INFO:root:Epoch: 2-    Val r Score:0.575984990619137
+INFO:root:Epoch: 2-    Val F1 Score:0.5872788139646101
+INFO:root:epoch3
+INFO:root:Epoch: 3-    dev F1 Score: 0.5433255269320842
+INFO:root:Epoch: 3-    Val p Score:0.5526950925181013
+INFO:root:Epoch: 3-    Val r Score:0.6444652908067542
+INFO:root:Epoch: 3-    Val F1 Score:0.5950627977479428
+INFO:root:epoch4
+INFO:root:Epoch: 4-    dev F1 Score: 0.6130434782608696
+INFO:root:Epoch: 4-    Val p Score:0.551487414187643
+INFO:root:Epoch: 4-    Val r Score:0.6782363977485929
+INFO:root:Epoch: 4-    Val F1 Score:0.6083298275136727
+
+INFO:root:basemodel+position+entity_mask_ESIM110.3
+INFO:root:epoch0
+INFO:root:Epoch: 0-    dev F1 Score: 0.5411140583554377
+INFO:root:Epoch: 0-    Val p Score:0.5940119760479042
+INFO:root:Epoch: 0-    Val r Score:0.4652908067542214
+INFO:root:Epoch: 0-    Val F1 Score:0.5218306154655445
+INFO:root:epoch1

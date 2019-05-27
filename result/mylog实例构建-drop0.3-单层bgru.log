@@ -1,0 +1,251 @@
+删除句内无相关句子 步长100
+INFO:root:basemodel+position(30)
+INFO:root:epoch0
+INFO:root:Epoch: 0-    dev F1 Score: 0.5168539325842696
+INFO:root:Epoch: 0-    Val F1 Score:0.4945891783567134
+INFO:root:epoch1
+INFO:root:Epoch: 1-    dev F1 Score: 0.5536992840095465
+INFO:root:Epoch: 1-    Val F1 Score:0.5288782816229116
+INFO:root:epoch2
+INFO:root:Epoch: 2-    dev F1 Score: 0.5509641873278237
+INFO:root:Epoch: 2-    Val F1 Score:0.5052054794520547
+INFO:root:epoch3
+INFO:root:Epoch: 3-    dev F1 Score: 0.5583173996175909
+INFO:root:Epoch: 3-    Val F1 Score:0.5628373168851195
+INFO:root:epoch4
+INFO:root:Epoch: 4-    dev F1 Score: 0.5631929046563193
+INFO:root:Epoch: 4-    Val F1 Score:0.5625524769101595
+INFO:root:epoch5
+INFO:root:Epoch: 5-    dev F1 Score: 0.5377176015473887
+INFO:root:Epoch: 5-    Val F1 Score:0.5380029806259314
+INFO:root:epoch6
+INFO:root:Epoch: 6-    dev F1 Score: 0.5338078291814946
+INFO:root:Epoch: 6-    Val F1 Score:0.551063829787234
+INFO:root:epoch7
+INFO:root:Epoch: 7-    dev F1 Score: 0.5345211581291759
+INFO:root:Epoch: 7-    Val F1 Score:0.5541455160744502
+INFO:root:epoch8
+INFO:root:Epoch: 8-    dev F1 Score: 0.55982905982906
+INFO:root:Epoch: 8-    Val F1 Score:0.5456046223689642
+INFO:root:epoch9
+INFO:root:Epoch: 9-    dev F1 Score: 0.5394495412844038
+INFO:root:Epoch: 9-    Val F1 Score:0.5404255319148936
+INFO:root:epoch10
+INFO:root:Epoch: 10-    dev F1 Score: 0.5447470817120623
+INFO:root:Epoch: 10-    Val F1 Score:0.5281638624725676
+INFO:root:epoch11
+INFO:root:Epoch: 11-    dev F1 Score: 0.513888888888889
+INFO:root:Epoch: 11-    Val F1 Score:0.5311958405545927
+INFO:root:epoch12
+INFO:root:Epoch: 12-    dev F1 Score: 0.5553539019963702
+INFO:root:Epoch: 12-    Val F1 Score:0.5187436676798378
+INFO:root:epoch13
+INFO:root:Epoch: 13-    dev F1 Score: 0.5314183123877918
+INFO:root:Epoch: 13-    Val F1 Score:0.525583014270797
+INFO:root:epoch14
+INFO:root:Epoch: 14-    dev F1 Score: 0.5333333333333333
+INFO:root:Epoch: 14-    Val F1 Score:0.5104712041884817
+INFO:root:epoch15
+INFO:root:Epoch: 15-    dev F1 Score: 0.5330739299610895
+INFO:root:Epoch: 15-    Val F1 Score:0.5139543312794491
+INFO:root:epoch16
+INFO:root:Epoch: 16-    dev F1 Score: 0.5249999999999999
+INFO:root:Epoch: 16-    Val F1 Score:0.5170299727520437
+INFO:root:epoch17
+INFO:root:Epoch: 17-    dev F1 Score: 0.540952380952381
+INFO:root:Epoch: 17-    Val F1 Score:0.5092460881934566
+INFO:root:epoch18
+INFO:root:Epoch: 18-    dev F1 Score: 0.5238095238095237
+INFO:root:Epoch: 18-    Val F1 Score:0.5219512195121951
+INFO:root:epoch19
+INFO:root:Epoch: 19-    dev F1 Score: 0.5349301397205588
+INFO:root:Epoch: 19-    Val F1 Score:0.5312383090160868
+INFO:root:basemodel
+INFO:root:drop0.3
+INFO:root:epoch0
+INFO:root:Epoch: 0-    dev F1 Score: 0.483005366726297
+INFO:root:Epoch: 0-    Val F1 Score:0.49170204554226166
+INFO:root:epoch1
+INFO:root:Epoch: 1-    dev F1 Score: 0.5140961857379769
+INFO:root:Epoch: 1-    Val F1 Score:0.517862995739102
+INFO:root:epoch2
+INFO:root:Epoch: 2-    dev F1 Score: 0.4671717171717172
+INFO:root:Epoch: 2-    Val F1 Score:0.4741269436655621
+INFO:root:epoch3
+INFO:root:Epoch: 3-    dev F1 Score: 0.5381818181818182
+INFO:root:Epoch: 3-    Val F1 Score:0.5459183673469388
+INFO:root:epoch4
+INFO:root:Epoch: 4-    dev F1 Score: 0.507223113964687
+INFO:root:Epoch: 4-    Val F1 Score:0.524297520661157
+INFO:root:epoch5
+INFO:root:Epoch: 5-    dev F1 Score: 0.5530145530145529
+INFO:root:Epoch: 5-    Val F1 Score:0.5532091097308489
+INFO:root:epoch6
+INFO:root:Epoch: 6-    dev F1 Score: 0.5290023201856149
+INFO:root:Epoch: 6-    Val F1 Score:0.5254458460200087
+INFO:root:epoch7
+INFO:root:Epoch: 7-    dev F1 Score: 0.4626436781609195
+INFO:root:Epoch: 7-    Val F1 Score:0.4974008207934336
+INFO:root:epoch8
+INFO:root:Epoch: 8-    dev F1 Score: 0.43675417661097854
+INFO:root:Epoch: 8-    Val F1 Score:0.4466285714285715
+INFO:root:epoch9
+INFO:root:Epoch: 9-    dev F1 Score: 0.520076481835564
+INFO:root:Epoch: 9-    Val F1 Score:0.5277287177675732
+INFO:root:epoch10
+INFO:root:Epoch: 10-    dev F1 Score: 0.5251396648044693
+INFO:root:Epoch: 10-    Val F1 Score:0.5226130653266331
+INFO:root:epoch11
+INFO:root:Epoch: 11-    dev F1 Score: 0.5072463768115942
+INFO:root:Epoch: 11-    Val F1 Score:0.5247558100370496
+INFO:root:epoch12
+INFO:root:Epoch: 12-    dev F1 Score: 0.5292929292929294
+INFO:root:Epoch: 12-    Val F1 Score:0.5252302025782688
+INFO:root:epoch13
+INFO:root:Epoch: 13-    dev F1 Score: 0.4795737122557727
+INFO:root:Epoch: 13-    Val F1 Score:0.5202312138728323
+INFO:root:epoch14
+INFO:root:Epoch: 14-    dev F1 Score: 0.46434494195688225
+INFO:root:Epoch: 14-    Val F1 Score:0.49136625265071193
+INFO:root:epoch15
+INFO:root:Epoch: 15-    dev F1 Score: 0.5009345794392523
+INFO:root:Epoch: 15-    Val F1 Score:0.5057546859585662
+INFO:root:epoch16
+INFO:root:Epoch: 16-    dev F1 Score: 0.44339622641509435
+INFO:root:Epoch: 16-    Val F1 Score:0.4883585564610012
+INFO:root:epoch17
+INFO:root:Epoch: 17-    dev F1 Score: 0.45220030349013657
+INFO:root:Epoch: 17-    Val F1 Score:0.4726477024070022
+INFO:root:epoch18
+INFO:root:Epoch: 18-    dev F1 Score: 0.46330935251798566
+INFO:root:Epoch: 18-    Val F1 Score:0.46884899683210135
+INFO:root:epoch19
+INFO:root:Epoch: 19-    dev F1 Score: 0.46226415094339623
+INFO:root:Epoch: 19-    Val F1 Score:0.47901092581943644
+删除句内无相关句子 补长200
+INFO:root:basemodel+position
+INFO:root:epoch0
+INFO:root:Epoch: 0-    dev F1 Score: 0.4228571428571428
+INFO:root:Epoch: 0-    Val F1 Score:0.4018691588785047
+INFO:root:epoch1
+INFO:root:Epoch: 1-    dev F1 Score: 0.5227272727272727
+INFO:root:Epoch: 1-    Val F1 Score:0.4900511654349062
+INFO:root:epoch2
+INFO:root:Epoch: 2-    dev F1 Score: 0.5393258426966292
+INFO:root:Epoch: 2-    Val F1 Score:0.5324367088607596
+INFO:root:epoch3
+INFO:root:Epoch: 3-    dev F1 Score: 0.5406301824212272
+INFO:root:Epoch: 3-    Val F1 Score:0.5458333333333333
+INFO:root:epoch4
+INFO:root:Epoch: 4-    dev F1 Score: 0.581888246628131
+INFO:root:Epoch: 4-    Val F1 Score:0.5708582834331337
+INFO:root:epoch5
+INFO:root:Epoch: 5-    dev F1 Score: 0.5441527446300716
+INFO:root:Epoch: 5-    Val F1 Score:0.5566714490674318
+INFO:root:epoch6
+INFO:root:Epoch: 6-    dev F1 Score: 0.5541666666666667
+INFO:root:Epoch: 6-    Val F1 Score:0.5718967636214667
+INFO:root:epoch7
+INFO:root:Epoch: 7-    dev F1 Score: 0.5408348457350273
+INFO:root:Epoch: 7-    Val F1 Score:0.558173251177963
+INFO:root:epoch8
+INFO:root:Epoch: 8-    dev F1 Score: 0.5424528301886792
+INFO:root:Epoch: 8-    Val F1 Score:0.5535124941065535
+INFO:root:epoch9
+INFO:root:Epoch: 9-    dev F1 Score: 0.5239005736137667
+INFO:root:Epoch: 9-    Val F1 Score:0.5369383092155369
+INFO:root:epoch10
+INFO:root:Epoch: 10-    dev F1 Score: 0.5225225225225226
+INFO:root:Epoch: 10-    Val F1 Score:0.5228712174524983
+INFO:root:epoch11
+INFO:root:Epoch: 11-    dev F1 Score: 0.5087440381558028
+INFO:root:Epoch: 11-    Val F1 Score:0.5138932251014673
+INFO:root:epoch12
+INFO:root:Epoch: 12-    dev F1 Score: 0.516728624535316
+INFO:root:Epoch: 12-    Val F1 Score:0.5300113250283126
+INFO:root:epoch13
+INFO:root:Epoch: 13-    dev F1 Score: 0.5108514190317195
+INFO:root:Epoch: 13-    Val F1 Score:0.5110470701248799
+INFO:root:epoch14
+INFO:root:Epoch: 14-    dev F1 Score: 0.4858569051580699
+INFO:root:Epoch: 14-    Val F1 Score:0.5048285048285048
+INFO:root:epoch15
+INFO:root:Epoch: 15-    dev F1 Score: 0.5104166666666666
+INFO:root:Epoch: 15-    Val F1 Score:0.5171102661596959
+INFO:root:epoch16
+INFO:root:Epoch: 16-    dev F1 Score: 0.4914089347079037
+INFO:root:Epoch: 16-    Val F1 Score:0.49829816201497623
+INFO:root:epoch17
+INFO:root:Epoch: 17-    dev F1 Score: 0.4788732394366197
+INFO:root:Epoch: 17-    Val F1 Score:0.4959807073954983
+INFO:root:epoch18
+INFO:root:Epoch: 18-    dev F1 Score: 0.48387096774193555
+INFO:root:Epoch: 18-    Val F1 Score:0.5057989690721649
+INFO:root:epoch19
+INFO:root:Epoch: 19-    dev F1 Score: 0.4833068362480128
+INFO:root:Epoch: 19-    Val F1 Score:0.48725916718458673
+删除4剧之外 步长197
+INFO:root:basemodel+position
+INFO:root:epoch0
+INFO:root:basemodel+position
+INFO:root:epoch0
+INFO:root:Epoch: 0-    dev F1 Score: 0.49038461538461536
+INFO:root:Epoch: 0-    Val F1 Score:0.4761904761904762
+INFO:root:epoch1
+INFO:root:Epoch: 1-    dev F1 Score: 0.562874251497006
+INFO:root:Epoch: 1-    Val F1 Score:0.4894327030033371
+INFO:root:epoch2
+INFO:root:Epoch: 2-    dev F1 Score: 0.5203761755485894
+INFO:root:Epoch: 2-    Val F1 Score:0.4798180784536668
+INFO:root:epoch3
+INFO:root:Epoch: 3-    dev F1 Score: 0.6049046321525886
+INFO:root:Epoch: 3-    Val F1 Score:0.5327291037260825
+INFO:root:epoch4
+INFO:root:Epoch: 4-    dev F1 Score: 0.6043956043956044
+INFO:root:Epoch: 4-    Val F1 Score:0.5397815912636507
+INFO:root:epoch5
+INFO:root:Epoch: 5-    dev F1 Score: 0.5898004434589801
+INFO:root:Epoch: 5-    Val F1 Score:0.5523210070810385
+INFO:root:epoch6
+INFO:root:Epoch: 6-    dev F1 Score: 0.5536062378167641
+INFO:root:Epoch: 6-    Val F1 Score:0.570222563315426
+INFO:root:epoch7
+INFO:root:Epoch: 7-    dev F1 Score: 0.5833333333333333
+INFO:root:Epoch: 7-    Val F1 Score:0.5658575407879028
+INFO:root:epoch8
+INFO:root:Epoch: 8-    dev F1 Score: 0.5131578947368421
+INFO:root:Epoch: 8-    Val F1 Score:0.5175332527206771
+INFO:root:epoch9
+INFO:root:Epoch: 9-    dev F1 Score: 0.5530303030303031
+INFO:root:Epoch: 9-    Val F1 Score:0.5355908776779543
+INFO:root:epoch10
+INFO:root:Epoch: 10-    dev F1 Score: 0.5441527446300717
+INFO:root:Epoch: 10-    Val F1 Score:0.5284621920135938
+INFO:root:epoch11
+INFO:root:Epoch: 11-    dev F1 Score: 0.5646123260437376
+INFO:root:Epoch: 11-    Val F1 Score:0.520927014873746
+INFO:root:epoch12
+INFO:root:Epoch: 12-    dev F1 Score: 0.5957446808510638
+INFO:root:Epoch: 12-    Val F1 Score:0.5201371036846616
+INFO:root:epoch13
+INFO:root:Epoch: 13-    dev F1 Score: 0.5690021231422505
+INFO:root:Epoch: 13-    Val F1 Score:0.5106066244882769
+INFO:root:epoch14
+INFO:root:Epoch: 14-    dev F1 Score: 0.5662100456621004
+INFO:root:Epoch: 14-    Val F1 Score:0.507223113964687
+INFO:root:epoch15
+INFO:root:Epoch: 15-    dev F1 Score: 0.5466101694915255
+INFO:root:Epoch: 15-    Val F1 Score:0.5140924464487034
+INFO:root:epoch16
+INFO:root:Epoch: 16-    dev F1 Score: 0.5584905660377358
+INFO:root:Epoch: 16-    Val F1 Score:0.5118323191345503
+INFO:root:epoch17
+INFO:root:Epoch: 17-    dev F1 Score: 0.5719844357976654
+INFO:root:Epoch: 17-    Val F1 Score:0.4979395604395604
+INFO:root:epoch18
+INFO:root:Epoch: 18-    dev F1 Score: 0.5588235294117647
+INFO:root:Epoch: 18-    Val F1 Score:0.5299015897047691
+INFO:root:epoch19
+INFO:root:Epoch: 19-    dev F1 Score: 0.5696202531645569
+INFO:root:Epoch: 19-    Val F1 Score:0.5237003058103976
+
